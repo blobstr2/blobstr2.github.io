@@ -1,58 +1,77 @@
+
 User-agent: Applebot
 Disallow: /
-
-User-agent: baiduspider
-Disallow: /
-
 User-agent: Bingbot
 Disallow: /
-
 User-agent: Discordbot
 Disallow: /
-
-User-agent: facebookexternalhit
+User-agent: Download Ninja
 Disallow: /
-
+User-agent: Fetch
+Disallow: /
 User-agent: Googlebot
 Disallow: /
-
-User-agent: ia_archiver
+User-agent: HTTrack
 Disallow: /
-
 User-agent: LinkedInBot
 Disallow: /
-
-User-agent: msnbot
+User-agent: MSIECrawler
 Disallow: /
-
+User-agent: Microsoft.URL.Control
+Disallow: /
 User-agent: Naverbot
 Disallow: /
-
+User-agent: Offline Explorer
+Disallow: /
 User-agent: Pinterestbot
 Disallow: /
-
 User-agent: Screaming Frog SEO Spider
 Disallow: /
-
-User-agent: seznambot
+User-agent: SiteSnagger
 Disallow: /
-
 User-agent: Slurp
 Disallow: /
-
-User-agent: teoma
-Disallow: /
-
 User-agent: TelegramBot
 Disallow: /
-
+User-agent: Teleport
+Disallow: /
+User-agent: TeleportPro
+Disallow: /
 User-agent: Twitterbot
 Disallow: /
-
+User-agent: WebCopier
+Disallow: /
+User-agent: WebStripper
+Disallow: /
+User-agent: WebZIP
+Disallow: /
+User-agent: Xenu
+Disallow: /
 User-agent: Yandex
 Disallow: /
-
 User-agent: Yeti
+Disallow: /
+User-agent: Zealbot
+Disallow: /
+User-agent: ZyBORG
+Disallow: /
+User-agent: baiduspider
+Disallow: /
+User-agent: facebookexternalhit
+Disallow: /
+User-agent: ia_archiver
+Disallow: /
+User-agent: larbin
+Disallow: /
+User-agent: libwww
+Disallow: /
+User-agent: linko
+Disallow: /
+User-agent: msnbot
+Disallow: /
+User-agent: seznambot
+Disallow: /
+User-agent: teoma
 Disallow: /
 
 User-agent: *
